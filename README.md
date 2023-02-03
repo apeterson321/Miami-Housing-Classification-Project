@@ -1,0 +1,3 @@
+# Miami Housing Classification Project
+
+The goal of this project was to produce a classification model to assist a Miami real estate agency in creating a more efficient client management process. Prior, this agency provided equal service and agent skilling to all prospective clients regardless of property value. To boost client retention and improve customer experience for high-valued clients, this agency wants to restructure their service by separating high-valued clients from normal clients and allocating better skilled agents to these high valued clients. This classification model will predict whether a potential client will be a high-valued client (property value above $1 mil) or a normal client based on the properties features. 
